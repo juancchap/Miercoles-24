@@ -12,6 +12,8 @@ public class Miercoles_24 {
         luis =guillermo/2;
         juan= guillermo +luis/2;
         total= guillermo+luis+ juan;
+        System.out.println("La cantidad de luis es : "+luis);
+        System.out.println("La cantidad de juan es : "+juan);
         System.out.println("El total es de : "+total);
     }
 
